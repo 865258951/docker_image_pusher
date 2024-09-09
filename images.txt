@@ -1,1 +1,1 @@
-traefik/whoami:v1.10
+binaryify/netease_cloud_music_api
