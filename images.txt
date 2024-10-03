@@ -1,1 +1,2 @@
 binaryify/netease_cloud_music_api
+xhofe/alist:latest
