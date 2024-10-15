@@ -1,4 +1,3 @@
 binaryify/netease_cloud_music_api
 xhofe/alist:latest
-emqttd:2.3.6
 emqx/emqx:latest
