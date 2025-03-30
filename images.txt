@@ -2,3 +2,4 @@ binaryify/netease_cloud_music_api
 xhofe/alist:latest
 emqx/emqx:latest
 socialsisteryi/cx-kitty:latest
+cnk3x/xunlei:latest
