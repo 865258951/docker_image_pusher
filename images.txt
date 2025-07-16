@@ -4,3 +4,4 @@ emqx/emqx:latest
 socialsisteryi/cx-kitty:latest
 cnk3x/xunlei:latest
 ubuntu:latest
+ubuntu:22.04
